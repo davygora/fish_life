@@ -12,5 +12,5 @@ class Pike < Fish
 end
 
 class Carp < Fish
-
+  @weight = 4
 end
